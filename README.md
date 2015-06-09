@@ -9,6 +9,6 @@ This batch fill will block any device with in the a MAC address from glasshole.s
 
 This batch script has been tested on Windows Server 2012 R2 and 2012.
 
-!!!!!It may still be possible for the g00gle glass device to get on your network by them knowing the subset and entering a static ip on the device.!!!! But lets face it most glassholes have no idea what a subnet or static ip is ;)
+!!!!!It may still be possible for the g00gle glass device to get on your network by them knowing the subnet and entering a static ip on the device.!!!! But lets face it most glassholes have no idea what a subnet or static ip is ;)
 
-Julian Oliver thank you!
+Julian Oliver's glasshole.sh gave me the idea for this thank you!
