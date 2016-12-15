@@ -3,7 +3,7 @@ glasshole.bat
 
 glasshole for windows dhcp server 
 
-glasshole.bat with Windows Server 2012 R2, 2012, 2008 R2, 2008 DHCP Server.
+glasshole.bat with Windows Server 2016, 2012 R2, 2012, 2008 R2, 2008 DHCP Server.
 
 This batch fill will block any device with in the a MAC address from glasshole.sh range from obtaining an IP from the Windows DHCP Server.
 
